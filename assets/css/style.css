@@ -59,13 +59,14 @@ p {
 }
 
 /* Main  */
-.hero {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    /*object-fit: cover*/
 }
 
 .float-left {
@@ -78,7 +79,7 @@ p {
     margin-left: 25px;
 }
 
-.content  {
+section  {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -143,7 +144,7 @@ p {
 
 /* benefits to be aligned as a column on the right could it be called an aside. NOT aligning over there*/
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
