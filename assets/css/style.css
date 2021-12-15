@@ -12,7 +12,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #ffffff ;
 }
 
 .header h1 {
@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #10110f;
 }
 
 .header nav {
@@ -75,35 +75,8 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
 
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*main contenct styling*/
+/*main content styling*/
 
 .services {
     margin-bottom: 20px;
@@ -123,6 +96,35 @@ p {
     font-size: 36px;
 }
 
+/*aside content styling*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit {
+    margin-bottom: 14px;
+    color: #ffffff;
+}
+
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
 .footer {
     padding: 30px;
     clear: both;
@@ -130,6 +132,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
