@@ -10,3 +10,4 @@ Adapt the current code to provide more accessibility through Semantic HTML inclu
 Add notes for future reference
 CSS follows a sequential order
 Designed for desktop viewing
+# Horiseon-Project
