@@ -1,13 +1,22 @@
 README.md
 
-## Horiseon Code Refactor
+## Horiseon SEO Marketing
 
-Marketing agency initial webpage refactored. 
+Adapting the marketing firm's code to provide more accessibility through Semantic HTML. Includes CSS language. 
+
+Designed for desktop viewing only.
 
 
-## Tasks:
-Adapt the current code to provide more accessibility through Semantic HTML including alt attributes
-Add notes for future reference
-CSS follows a sequential order
-Designed for desktop viewing
-# Horiseon-Project
+
+## Final Image
+![Getting Started](Horiseon-Project/assets/images/01-html-css-git-homework-demo.png)
+
+
+
+
+
+  
+
+
+
+
