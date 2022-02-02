@@ -1,15 +1,28 @@
-README.md
+# Horiseon SEO Marketing Webpage
+---
 
-## Horiseon SEO Marketing
+## The Task 
+To refactor the html by providing more accessibility through Semantic HTML code. The code includes CSS language. 
 
-Adapting the marketing firm's code to provide more accessibility through Semantic HTML. Includes CSS language. 
-
-Designed for desktop viewing only.
-
+* Designed for desktop viewing only.
 
 
-## Final Image
-![Getting Started](./assets/images/final-view.png)
+---
+
+## Acceptance Criteria
+Semantic HTML
+Working links
+Accessible alt attributes for images
+Navigation Bar
+Cards with text and images
+CSS falls in sequential order
+
+---
+
+## Final Image Mock-up
+![png image of the Horiseon Webpage](./assets/images/Horiseon-mockup.png)
+
+
 
 
 
