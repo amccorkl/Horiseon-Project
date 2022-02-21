@@ -2,7 +2,7 @@
 ---
 
 ## The Task 
-To refactor the html by providing more accessibility through Semantic HTML code. The code includes CSS language. 
+To refactor the html by providing more accessibility through Semantic HTML code and connect links to other places in the webpage. The code includes CSS language. 
 
 * Designed for desktop viewing only.
 
